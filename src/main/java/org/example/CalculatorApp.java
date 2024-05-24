@@ -22,7 +22,10 @@ public class CalculatorApp {
             case '+':
                 result = num1 + num2;
                 break;
-
+           // Subtraction of two numbers
+            case '-':
+                result = num1 - num2;
+                break;
             default:
                 System.out.println("You enter wrong input");
         }
