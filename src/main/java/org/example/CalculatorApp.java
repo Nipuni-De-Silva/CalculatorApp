@@ -22,7 +22,7 @@ public class CalculatorApp {
             case '+':
                 result = num1 + num2;
                 break;
-           // Subtraction of two numbers
+            // subtraction of two numbers
             case '-':
                 result = num1 - num2;
                 break;
